@@ -1,3 +1,2 @@
 # node-server
-Node.js makes it easy to create a folder-based web server using JavaScript
-
+Node.js makes easy to create a folder-based web server using JavaScript.
